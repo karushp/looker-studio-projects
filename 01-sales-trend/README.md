@@ -20,25 +20,27 @@ This project resolves that by **serializing multi-year data** in BigQuery, allow
 
 ## 🧱 Folder Structure
 
+```
 01-sales-trend/
-├── images/ # Dashboard and chart previews
-│ ├── serialized_sales-images-0.jpg
-│ ├── serialized_sales-images-1.jpg
-│ ├── serialized_sales-images-2.jpg
-│ └── serialized_sales-images-3.jpg
+├── images/                    # Dashboard and chart previews
+│   ├── serialized_sales-images-0.jpg
+│   ├── serialized_sales-images-1.jpg
+│   ├── serialized_sales-images-2.jpg
+│   └── serialized_sales-images-3.jpg
 │
-├── queries/ # SQL queries for BigQuery
-│ ├── 01_raw_data_preview.sql
-│ ├── 01_serialized_sales_table.sql
-│ ├── 03_category_analysis.sql
-│ └── 04_monthly_trend.sql
+├── queries/                   # SQL queries for BigQuery
+│   ├── 01_raw_data_preview.sql
+│   ├── 01_serialized_sales_table.sql
+│   ├── 03_category_analysis.sql
+│   └── 04_monthly_trend.sql
 │
-├── sales_data/ # Synthetic CSV data for demo
-│ ├── generate_sales_data.py
-│ ├── sales_2024.csv
-│ └── sales_2025.csv
+├── sales_data/                # Synthetic CSV data for demo
+│   ├── generate_sales_data.py
+│   ├── sales_2024.csv
+│   └── sales_2025.csv
 │
-└── README.md # Project documentation
+└── README.md                  # Project documentation
+```
 
 
 ---
