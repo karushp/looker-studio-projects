@@ -1,0 +1,538 @@
+date,product_id,category,units_sold,unit_price,value,region,channel
+2024-01-01,P009,Home Appliances,47,392.97,18469.59,Hokkaido,Amazon
+2024-01-01,P003,Fashion,65,79.55,5170.75,Osaka,Amazon
+2024-01-02,P001,Electronics,44,237.48,10449.12,Hokkaido,Amazon
+2024-01-02,P018,Toys,71,54.26,3852.46,Osaka,Retail
+2024-01-02,P017,Sports,63,58.01,3654.63,Tokyo,Amazon
+2024-01-04,P001,Electronics,45,496.62,22347.9,Osaka,Retail
+2024-01-05,P006,Toys,114,52.72,6010.08,Hokkaido,Amazon
+2024-01-05,P012,Toys,129,51.69,6668.01,Hokkaido,Amazon
+2024-01-06,P015,Home Appliances,53,244.86,12977.58,Kyoto,Website
+2024-01-06,P009,Home Appliances,34,265.66,9032.44,Fukuoka,Amazon
+2024-01-07,P016,Beauty,264,31.87,8413.68,Fukuoka,Retail
+2024-01-08,P015,Home Appliances,25,297.32,7433.0,Osaka,Mercari
+2024-01-08,P005,Beauty,123,35.29,4340.67,Tokyo,Amazon
+2024-01-08,P002,Home Appliances,35,210.22,7357.7,Tokyo,Mercari
+2024-01-08,P016,Beauty,148,44.22,6544.56,Tokyo,Amazon
+2024-01-08,P007,Electronics,58,276.08,16012.64,Osaka,Mercari
+2024-01-09,P003,Fashion,195,44.77,8730.15,Kyoto,Website
+2024-01-09,P005,Beauty,243,27.4,6658.2,Hokkaido,Website
+2024-01-09,P016,Beauty,133,26.43,3515.19,Kyoto,Mercari
+2024-01-10,P007,Electronics,67,587.48,39361.16,Kyoto,Amazon
+2024-01-11,P009,Home Appliances,68,188.87,12843.16,Tokyo,Amazon
+2024-01-11,P001,Electronics,44,435.32,19154.08,Hokkaido,Retail
+2024-01-13,P004,Sports,84,85.9,7215.6,Hokkaido,Website
+2024-01-13,P013,Electronics,59,438.36,25863.24,Hokkaido,Website
+2024-01-13,P001,Electronics,46,594.12,27329.52,Fukuoka,Website
+2024-01-14,P016,Beauty,202,34.44,6956.88,Tokyo,Retail
+2024-01-14,P018,Toys,122,48.17,5876.74,Osaka,Retail
+2024-01-15,P017,Sports,71,95.15,6755.65,Osaka,Amazon
+2024-01-18,P007,Electronics,74,486.41,35994.34,Hokkaido,Mercari
+2024-01-18,P010,Beauty,258,44.88,11579.04,Nagoya,Retail
+2024-01-18,P001,Electronics,37,472.11,17468.07,Kyoto,Website
+2024-01-20,P011,Sports,54,98.86,5338.44,Nagoya,Website
+2024-01-21,P012,Toys,105,30.69,3222.45,Osaka,Website
+2024-01-22,P016,Beauty,142,48.41,6874.22,Nagoya,Mercari
+2024-01-22,P014,Fashion,155,54.8,8494.0,Fukuoka,Amazon
+2024-01-22,P004,Sports,133,56.06,7455.98,Nagoya,Amazon
+2024-01-23,P003,Fashion,108,33.21,3586.68,Nagoya,Amazon
+2024-01-23,P003,Fashion,93,72.64,6755.52,Hokkaido,Retail
+2024-01-23,P010,Beauty,271,31.97,8663.87,Kyoto,Website
+2024-01-24,P004,Sports,109,117.67,12826.03,Tokyo,Mercari
+2024-01-24,P019,Electronics,67,371.37,24881.79,Fukuoka,Website
+2024-01-24,P011,Sports,114,55.72,6352.08,Fukuoka,Retail
+2024-01-25,P011,Sports,95,61.16,5810.2,Osaka,Mercari
+2024-01-26,P002,Home Appliances,40,332.43,13297.2,Fukuoka,Amazon
+2024-01-27,P002,Home Appliances,29,207.26,6010.54,Nagoya,Mercari
+2024-01-27,P003,Fashion,186,98.46,18313.56,Osaka,Retail
+2024-01-28,P008,Fashion,147,90.65,13325.55,Nagoya,Mercari
+2024-01-28,P010,Beauty,229,45.25,10362.25,Hokkaido,Retail
+2024-01-29,P002,Home Appliances,34,364.91,12406.94,Hokkaido,Retail
+2024-01-31,P007,Electronics,78,571.57,44582.46,Kyoto,Retail
+2024-02-01,P017,Sports,108,142.56,15396.48,Kyoto,Retail
+2024-02-01,P002,Home Appliances,85,211.21,17952.85,Hokkaido,Amazon
+2024-02-02,P010,Beauty,110,30.94,3403.4,Nagoya,Retail
+2024-02-02,P018,Toys,168,33.72,5664.96,Tokyo,Mercari
+2024-02-03,P008,Fashion,107,77.1,8249.7,Osaka,Retail
+2024-02-04,P003,Fashion,88,96.15,8461.2,Hokkaido,Amazon
+2024-02-05,P015,Home Appliances,65,316.89,20597.85,Fukuoka,Mercari
+2024-02-06,P015,Home Appliances,79,287.92,22745.68,Hokkaido,Amazon
+2024-02-06,P019,Electronics,46,585.01,26910.46,Tokyo,Amazon
+2024-02-07,P014,Fashion,147,76.55,11252.85,Kyoto,Retail
+2024-02-08,P009,Home Appliances,35,233.96,8188.6,Osaka,Retail
+2024-02-08,P013,Electronics,75,477.58,35818.5,Osaka,Amazon
+2024-02-09,P007,Electronics,50,467.89,23394.5,Osaka,Website
+2024-02-09,P006,Toys,73,52.56,3836.88,Fukuoka,Amazon
+2024-02-09,P003,Fashion,121,97.68,11819.28,Nagoya,Mercari
+2024-02-10,P007,Electronics,67,371.96,24921.32,Hokkaido,Website
+2024-02-12,P014,Fashion,134,34.9,4676.6,Hokkaido,Website
+2024-02-13,P005,Beauty,176,40.15,7066.4,Fukuoka,Website
+2024-02-13,P019,Electronics,32,276.03,8832.96,Kyoto,Mercari
+2024-02-14,P014,Fashion,169,53.16,8984.04,Fukuoka,Amazon
+2024-02-15,P015,Home Appliances,52,260.54,13548.08,Hokkaido,Mercari
+2024-02-15,P014,Fashion,197,92.03,18129.91,Osaka,Mercari
+2024-02-15,P009,Home Appliances,60,337.94,20276.4,Hokkaido,Mercari
+2024-02-16,P013,Electronics,71,297.59,21128.89,Kyoto,Amazon
+2024-02-17,P016,Beauty,113,27.53,3110.89,Tokyo,Mercari
+2024-02-18,P007,Electronics,38,402.35,15289.3,Nagoya,Amazon
+2024-02-20,P003,Fashion,199,59.35,11810.65,Hokkaido,Website
+2024-02-20,P017,Sports,144,50.78,7312.32,Hokkaido,Website
+2024-02-20,P007,Electronics,43,487.04,20942.72,Kyoto,Website
+2024-02-20,P005,Beauty,160,47.77,7643.2,Osaka,Retail
+2024-02-20,P014,Fashion,130,54.2,7046.0,Fukuoka,Amazon
+2024-02-20,P019,Electronics,65,320.38,20824.7,Tokyo,Website
+2024-02-21,P008,Fashion,69,49.22,3396.18,Kyoto,Website
+2024-02-22,P004,Sports,57,143.89,8201.73,Nagoya,Amazon
+2024-02-22,P008,Fashion,140,76.69,10736.6,Hokkaido,Mercari
+2024-02-22,P018,Toys,63,36.59,2305.17,Tokyo,Website
+2024-02-22,P004,Sports,78,121.98,9514.44,Hokkaido,Website
+2024-02-22,P014,Fashion,125,52.83,6603.75,Hokkaido,Retail
+2024-02-25,P003,Fashion,194,30.65,5946.1,Tokyo,Amazon
+2024-02-26,P006,Toys,96,48.06,4613.76,Hokkaido,Website
+2024-02-27,P009,Home Appliances,67,161.02,10788.34,Osaka,Website
+2024-02-27,P012,Toys,78,45.39,3540.42,Fukuoka,Retail
+2024-02-27,P008,Fashion,99,45.6,4514.4,Fukuoka,Website
+2024-02-27,P018,Toys,80,40.61,3248.8,Kyoto,Mercari
+2024-02-28,P008,Fashion,195,58.26,11360.7,Osaka,Amazon
+2024-02-28,P016,Beauty,217,26.67,5787.39,Nagoya,Website
+2024-02-29,P008,Fashion,90,55.87,5028.3,Fukuoka,Website
+2024-02-29,P004,Sports,59,124.24,7330.16,Nagoya,Website
+2024-02-29,P014,Fashion,135,31.74,4284.9,Fukuoka,Retail
+2024-02-29,P004,Sports,68,127.84,8693.12,Osaka,Mercari
+2024-03-01,P014,Fashion,77,87.56,6742.12,Fukuoka,Website
+2024-03-01,P018,Toys,65,29.43,1912.95,Tokyo,Website
+2024-03-03,P019,Electronics,70,476.25,33337.5,Osaka,Amazon
+2024-03-03,P010,Beauty,277,26.65,7382.05,Osaka,Website
+2024-03-04,P007,Electronics,53,318.5,16880.5,Osaka,Website
+2024-03-04,P018,Toys,137,51.76,7091.12,Hokkaido,Retail
+2024-03-05,P005,Beauty,177,44.33,7846.41,Tokyo,Retail
+2024-03-07,P001,Electronics,45,448.53,20183.85,Osaka,Mercari
+2024-03-07,P016,Beauty,250,28.29,7072.5,Hokkaido,Website
+2024-03-08,P015,Home Appliances,73,292.46,21349.58,Nagoya,Amazon
+2024-03-09,P013,Electronics,59,330.94,19525.46,Nagoya,Website
+2024-03-10,P009,Home Appliances,49,207.63,10173.87,Nagoya,Amazon
+2024-03-11,P013,Electronics,59,489.67,28890.53,Osaka,Amazon
+2024-03-11,P008,Fashion,72,88.15,6346.8,Nagoya,Mercari
+2024-03-11,P009,Home Appliances,60,370.08,22204.8,Hokkaido,Amazon
+2024-03-11,P006,Toys,92,58.79,5408.68,Fukuoka,Amazon
+2024-03-12,P018,Toys,107,39.99,4278.93,Tokyo,Website
+2024-03-14,P018,Toys,149,36.58,5450.42,Fukuoka,Website
+2024-03-16,P008,Fashion,174,49.11,8545.14,Tokyo,Mercari
+2024-03-16,P001,Electronics,33,499.61,16487.13,Nagoya,Retail
+2024-03-16,P011,Sports,67,68.18,4568.06,Nagoya,Website
+2024-03-17,P007,Electronics,76,234.25,17803.0,Fukuoka,Mercari
+2024-03-18,P008,Fashion,175,78.34,13709.5,Fukuoka,Amazon
+2024-03-20,P018,Toys,119,52.11,6201.09,Fukuoka,Website
+2024-03-21,P014,Fashion,168,39.5,6636.0,Osaka,Amazon
+2024-03-21,P003,Fashion,60,84.69,5081.4,Tokyo,Retail
+2024-03-21,P015,Home Appliances,80,326.83,26146.4,Osaka,Website
+2024-03-22,P004,Sports,67,106.4,7128.8,Fukuoka,Website
+2024-03-22,P019,Electronics,65,347.61,22594.65,Hokkaido,Website
+2024-03-23,P010,Beauty,253,45.51,11514.03,Tokyo,Amazon
+2024-03-23,P005,Beauty,292,39.14,11428.88,Fukuoka,Amazon
+2024-03-24,P018,Toys,148,58.28,8625.44,Osaka,Retail
+2024-03-25,P013,Electronics,56,541.38,30317.28,Hokkaido,Retail
+2024-03-25,P013,Electronics,56,311.3,17432.8,Nagoya,Amazon
+2024-03-25,P012,Toys,137,30.87,4229.19,Kyoto,Amazon
+2024-03-25,P006,Toys,73,58.77,4290.21,Hokkaido,Amazon
+2024-03-25,P017,Sports,96,88.04,8451.84,Nagoya,Mercari
+2024-03-27,P014,Fashion,199,57.26,11394.74,Kyoto,Amazon
+2024-03-27,P003,Fashion,68,58.05,3947.4,Hokkaido,Amazon
+2024-03-28,P019,Electronics,30,352.15,10564.5,Nagoya,Website
+2024-03-28,P001,Electronics,60,429.63,25777.8,Fukuoka,Mercari
+2024-03-30,P013,Electronics,72,436.76,31446.72,Tokyo,Amazon
+2024-03-30,P010,Beauty,196,37.27,7304.92,Fukuoka,Retail
+2024-04-02,P011,Sports,77,129.61,9979.97,Nagoya,Website
+2024-04-03,P008,Fashion,200,94.67,18934.0,Kyoto,Retail
+2024-04-03,P016,Beauty,185,30.44,5631.4,Nagoya,Amazon
+2024-04-03,P011,Sports,54,75.24,4062.96,Fukuoka,Amazon
+2024-04-04,P001,Electronics,68,589.26,40069.68,Osaka,Retail
+2024-04-04,P017,Sports,41,141.04,5782.64,Kyoto,Retail
+2024-04-04,P004,Sports,128,94.37,12079.36,Nagoya,Amazon
+2024-04-06,P001,Electronics,74,363.41,26892.34,Hokkaido,Mercari
+2024-04-06,P006,Toys,171,27.76,4746.96,Fukuoka,Retail
+2024-04-08,P019,Electronics,31,434.85,13480.35,Kyoto,Website
+2024-04-08,P010,Beauty,291,49.92,14526.72,Tokyo,Mercari
+2024-04-09,P003,Fashion,94,40.99,3853.06,Hokkaido,Amazon
+2024-04-09,P017,Sports,96,104.0,9984.0,Tokyo,Amazon
+2024-04-09,P018,Toys,96,29.59,2840.64,Fukuoka,Mercari
+2024-04-10,P002,Home Appliances,61,207.87,12680.07,Kyoto,Mercari
+2024-04-10,P018,Toys,112,25.48,2853.76,Tokyo,Retail
+2024-04-10,P010,Beauty,248,45.12,11189.76,Kyoto,Mercari
+2024-04-11,P016,Beauty,197,41.16,8108.52,Fukuoka,Retail
+2024-04-11,P016,Beauty,109,46.17,5032.53,Hokkaido,Amazon
+2024-04-14,P004,Sports,122,104.46,12744.12,Osaka,Website
+2024-04-14,P005,Beauty,300,22.24,6672.0,Nagoya,Website
+2024-04-14,P005,Beauty,205,27.33,5602.65,Hokkaido,Retail
+2024-04-15,P004,Sports,78,96.87,7555.86,Kyoto,Mercari
+2024-04-15,P009,Home Appliances,84,316.71,26603.64,Nagoya,Retail
+2024-04-16,P010,Beauty,169,35.27,5960.63,Fukuoka,Mercari
+2024-04-16,P008,Fashion,87,61.98,5392.26,Fukuoka,Retail
+2024-04-16,P002,Home Appliances,67,181.56,12164.52,Tokyo,Mercari
+2024-04-16,P019,Electronics,59,257.25,15177.75,Kyoto,Website
+2024-04-18,P018,Toys,179,38.2,6837.8,Nagoya,Retail
+2024-04-19,P020,Fashion,75,34.22,2566.5,Osaka,Retail
+2024-04-19,P002,Home Appliances,47,340.78,16016.66,Fukuoka,Mercari
+2024-04-20,P016,Beauty,294,38.76,11395.44,Tokyo,Retail
+2024-04-20,P013,Electronics,51,459.93,23456.43,Kyoto,Mercari
+2024-04-22,P013,Electronics,65,525.43,34152.95,Tokyo,Mercari
+2024-04-22,P018,Toys,66,41.17,2717.22,Osaka,Website
+2024-04-23,P008,Fashion,109,70.03,7633.27,Fukuoka,Amazon
+2024-04-25,P014,Fashion,179,53.79,9628.41,Nagoya,Amazon
+2024-04-27,P005,Beauty,142,22.14,3143.88,Nagoya,Website
+2024-04-27,P004,Sports,55,96.14,5287.7,Kyoto,Retail
+2024-04-28,P006,Toys,148,36.54,5407.92,Fukuoka,Website
+2024-04-28,P005,Beauty,223,33.4,7448.2,Nagoya,Website
+2024-04-29,P014,Fashion,114,81.42,9281.88,Tokyo,Amazon
+2024-04-30,P009,Home Appliances,80,195.37,15629.6,Kyoto,Mercari
+2024-04-30,P020,Fashion,84,65.58,5508.72,Tokyo,Website
+2024-05-01,P006,Toys,76,34.29,2606.04,Kyoto,Mercari
+2024-05-03,P010,Beauty,206,29.8,6138.8,Osaka,Retail
+2024-05-03,P013,Electronics,64,205.57,13156.48,Tokyo,Mercari
+2024-05-03,P018,Toys,87,32.25,2805.75,Osaka,Website
+2024-05-03,P003,Fashion,87,52.55,4571.85,Tokyo,Retail
+2024-05-04,P001,Electronics,52,252.72,13141.44,Osaka,Website
+2024-05-04,P004,Sports,123,135.28,16639.44,Hokkaido,Retail
+2024-05-05,P018,Toys,106,55.68,5902.08,Hokkaido,Website
+2024-05-07,P015,Home Appliances,55,261.17,14364.35,Nagoya,Amazon
+2024-05-08,P007,Electronics,73,448.36,32730.28,Kyoto,Retail
+2024-05-09,P001,Electronics,73,426.37,31125.01,Kyoto,Amazon
+2024-05-09,P020,Fashion,190,74.32,14120.8,Kyoto,Website
+2024-05-12,P009,Home Appliances,72,296.14,21322.08,Tokyo,Retail
+2024-05-13,P009,Home Appliances,40,197.45,7898.0,Fukuoka,Amazon
+2024-05-13,P020,Fashion,166,67.14,11145.24,Hokkaido,Mercari
+2024-05-15,P012,Toys,98,59.57,5837.86,Kyoto,Mercari
+2024-05-15,P012,Toys,155,48.47,7512.85,Kyoto,Mercari
+2024-05-16,P001,Electronics,65,447.82,29108.3,Nagoya,Retail
+2024-05-16,P004,Sports,108,59.72,6449.76,Osaka,Mercari
+2024-05-16,P013,Electronics,36,370.51,13338.36,Fukuoka,Mercari
+2024-05-17,P004,Sports,100,124.57,12457.0,Fukuoka,Website
+2024-05-17,P019,Electronics,62,243.62,15104.44,Osaka,Amazon
+2024-05-19,P010,Beauty,175,49.78,8711.5,Tokyo,Mercari
+2024-05-19,P005,Beauty,267,46.56,12431.52,Tokyo,Mercari
+2024-05-20,P014,Fashion,121,95.73,11583.33,Tokyo,Website
+2024-05-21,P004,Sports,122,140.34,17121.48,Tokyo,Website
+2024-05-21,P003,Fashion,168,74.48,12512.64,Kyoto,Website
+2024-05-21,P014,Fashion,61,38.17,2328.37,Tokyo,Website
+2024-05-22,P012,Toys,142,44.06,6256.52,Nagoya,Amazon
+2024-05-22,P007,Electronics,68,456.68,31054.24,Tokyo,Amazon
+2024-05-23,P009,Home Appliances,63,264.21,16645.23,Osaka,Mercari
+2024-05-24,P011,Sports,99,130.42,12911.58,Tokyo,Retail
+2024-05-24,P017,Sports,122,80.16,9779.52,Tokyo,Amazon
+2024-05-25,P008,Fashion,151,90.21,13621.71,Hokkaido,Website
+2024-05-25,P005,Beauty,252,43.66,11002.32,Tokyo,Website
+2024-05-26,P015,Home Appliances,71,158.34,11242.14,Kyoto,Retail
+2024-05-26,P011,Sports,56,74.36,4164.16,Hokkaido,Retail
+2024-05-27,P006,Toys,165,33.99,5608.35,Fukuoka,Website
+2024-05-28,P016,Beauty,197,23.2,4570.4,Hokkaido,Website
+2024-05-28,P005,Beauty,238,49.63,11811.94,Nagoya,Retail
+2024-05-30,P020,Fashion,123,82.16,10105.68,Osaka,Website
+2024-06-01,P007,Electronics,43,320.57,13784.51,Osaka,Website
+2024-06-03,P005,Beauty,107,42.23,4518.61,Tokyo,Retail
+2024-06-03,P013,Electronics,32,544.71,17430.72,Fukuoka,Amazon
+2024-06-03,P017,Sports,107,113.32,12125.24,Hokkaido,Retail
+2024-06-03,P003,Fashion,179,73.05,13075.95,Fukuoka,Mercari
+2024-06-04,P009,Home Appliances,79,293.53,23188.87,Hokkaido,Amazon
+2024-06-05,P016,Beauty,127,26.73,3394.71,Nagoya,Website
+2024-06-05,P015,Home Appliances,81,167.07,13532.67,Kyoto,Website
+2024-06-06,P005,Beauty,280,31.41,8794.8,Osaka,Website
+2024-06-06,P020,Fashion,142,62.21,8833.82,Tokyo,Mercari
+2024-06-08,P004,Sports,65,64.64,4201.6,Osaka,Retail
+2024-06-09,P015,Home Appliances,87,315.48,27446.76,Hokkaido,Mercari
+2024-06-10,P020,Fashion,76,51.87,3942.12,Hokkaido,Retail
+2024-06-10,P011,Sports,103,62.0,6386.0,Kyoto,Mercari
+2024-06-10,P015,Home Appliances,32,262.98,8415.36,Nagoya,Website
+2024-06-10,P009,Home Appliances,44,330.93,14560.92,Nagoya,Amazon
+2024-06-12,P005,Beauty,221,40.6,8972.6,Tokyo,Amazon
+2024-06-13,P014,Fashion,90,61.76,5558.4,Nagoya,Website
+2024-06-13,P010,Beauty,156,42.37,6609.72,Nagoya,Retail
+2024-06-14,P009,Home Appliances,90,203.89,18350.1,Tokyo,Website
+2024-06-14,P004,Sports,126,78.32,9868.32,Hokkaido,Mercari
+2024-06-15,P008,Fashion,166,58.97,9789.02,Fukuoka,Mercari
+2024-06-15,P003,Fashion,197,90.35,17798.95,Fukuoka,Mercari
+2024-06-17,P010,Beauty,201,21.36,4293.36,Hokkaido,Amazon
+2024-06-17,P005,Beauty,215,48.73,10476.95,Tokyo,Website
+2024-06-19,P018,Toys,154,58.4,8993.6,Tokyo,Mercari
+2024-06-19,P005,Beauty,179,47.5,8502.5,Kyoto,Mercari
+2024-06-20,P009,Home Appliances,59,157.24,9277.16,Kyoto,Website
+2024-06-22,P004,Sports,125,91.08,11385.0,Fukuoka,Amazon
+2024-06-22,P019,Electronics,69,457.2,31546.8,Nagoya,Website
+2024-06-23,P014,Fashion,153,50.27,7691.31,Tokyo,Website
+2024-06-23,P003,Fashion,94,65.32,6140.08,Tokyo,Retail
+2024-06-23,P015,Home Appliances,45,397.75,17898.75,Nagoya,Website
+2024-06-24,P004,Sports,80,81.25,6500.0,Kyoto,Website
+2024-06-24,P011,Sports,112,127.68,14300.16,Hokkaido,Amazon
+2024-06-25,P003,Fashion,176,42.4,7462.4,Fukuoka,Mercari
+2024-06-26,P005,Beauty,250,36.69,9172.5,Hokkaido,Website
+2024-06-26,P009,Home Appliances,70,297.85,20849.5,Hokkaido,Amazon
+2024-06-26,P011,Sports,52,56.59,2942.68,Hokkaido,Mercari
+2024-06-27,P003,Fashion,74,36.53,2703.22,Kyoto,Website
+2024-06-28,P004,Sports,115,74.33,8547.95,Fukuoka,Amazon
+2024-06-29,P002,Home Appliances,31,188.89,5855.59,Kyoto,Amazon
+2024-06-29,P012,Toys,164,37.29,6115.56,Kyoto,Retail
+2024-06-30,P011,Sports,63,85.1,5361.3,Osaka,Mercari
+2024-06-30,P019,Electronics,50,460.73,23036.5,Hokkaido,Mercari
+2024-06-30,P010,Beauty,298,31.62,9422.76,Nagoya,Amazon
+2024-07-02,P013,Electronics,45,400.8,18036.0,Fukuoka,Amazon
+2024-07-02,P012,Toys,164,44.11,7234.04,Kyoto,Retail
+2024-07-02,P007,Electronics,79,314.44,24840.76,Tokyo,Website
+2024-07-03,P014,Fashion,96,72.17,6928.32,Hokkaido,Website
+2024-07-04,P010,Beauty,131,27.13,3554.03,Tokyo,Retail
+2024-07-05,P006,Toys,148,31.33,4636.84,Hokkaido,Retail
+2024-07-06,P007,Electronics,79,336.69,26598.51,Fukuoka,Retail
+2024-07-06,P003,Fashion,142,66.64,9462.88,Tokyo,Amazon
+2024-07-08,P005,Beauty,175,24.65,4313.75,Tokyo,Amazon
+2024-07-09,P015,Home Appliances,43,376.33,16182.19,Fukuoka,Amazon
+2024-07-09,P007,Electronics,65,533.99,34709.35,Kyoto,Mercari
+2024-07-09,P004,Sports,95,129.93,12343.35,Fukuoka,Mercari
+2024-07-10,P016,Beauty,149,47.12,7020.88,Nagoya,Mercari
+2024-07-10,P007,Electronics,42,217.52,9135.84,Tokyo,Website
+2024-07-11,P004,Sports,124,58.01,7193.24,Nagoya,Website
+2024-07-12,P008,Fashion,75,31.97,2397.75,Kyoto,Website
+2024-07-12,P017,Sports,50,76.67,3833.5,Kyoto,Mercari
+2024-07-12,P015,Home Appliances,70,160.59,11241.3,Hokkaido,Mercari
+2024-07-13,P016,Beauty,199,21.31,4240.69,Nagoya,Website
+2024-07-14,P020,Fashion,78,62.0,4836.0,Fukuoka,Amazon
+2024-07-14,P001,Electronics,45,445.92,20066.4,Hokkaido,Mercari
+2024-07-15,P020,Fashion,164,49.94,8190.16,Osaka,Retail
+2024-07-15,P010,Beauty,228,43.34,9881.52,Hokkaido,Mercari
+2024-07-15,P020,Fashion,92,80.24,7382.08,Kyoto,Mercari
+2024-07-20,P003,Fashion,146,51.67,7543.82,Kyoto,Website
+2024-07-21,P014,Fashion,54,65.59,3541.86,Nagoya,Website
+2024-07-21,P017,Sports,131,107.5,14082.5,Osaka,Website
+2024-07-22,P011,Sports,119,137.64,16379.16,Osaka,Mercari
+2024-07-23,P017,Sports,76,135.12,10269.12,Tokyo,Retail
+2024-07-24,P015,Home Appliances,71,160.92,11425.32,Kyoto,Retail
+2024-07-24,P001,Electronics,34,342.84,11656.56,Nagoya,Retail
+2024-07-24,P004,Sports,134,127.15,17038.1,Nagoya,Retail
+2024-07-25,P016,Beauty,101,33.46,3379.46,Tokyo,Amazon
+2024-07-26,P005,Beauty,173,24.13,4174.49,Fukuoka,Retail
+2024-07-26,P005,Beauty,298,21.89,6523.22,Fukuoka,Amazon
+2024-07-27,P005,Beauty,289,40.1,11588.9,Kyoto,Amazon
+2024-07-27,P015,Home Appliances,86,395.2,33987.2,Kyoto,Retail
+2024-07-28,P009,Home Appliances,86,163.04,14021.44,Nagoya,Amazon
+2024-07-29,P013,Electronics,41,335.61,13760.01,Fukuoka,Mercari
+2024-07-30,P010,Beauty,239,35.46,8474.94,Fukuoka,Website
+2024-07-31,P006,Toys,162,53.59,8681.58,Hokkaido,Retail
+2024-07-31,P008,Fashion,139,87.17,12116.63,Tokyo,Mercari
+2024-08-02,P005,Beauty,299,22.02,6583.98,Kyoto,Website
+2024-08-03,P013,Electronics,78,401.7,31332.6,Hokkaido,Website
+2024-08-05,P003,Fashion,163,61.64,10047.32,Tokyo,Website
+2024-08-05,P004,Sports,89,55.06,4900.34,Hokkaido,Mercari
+2024-08-06,P011,Sports,68,143.47,9755.96,Nagoya,Website
+2024-08-07,P020,Fashion,175,49.99,8748.25,Osaka,Amazon
+2024-08-07,P006,Toys,125,42.44,5305.0,Fukuoka,Mercari
+2024-08-08,P004,Sports,63,52.59,3313.17,Fukuoka,Mercari
+2024-08-08,P016,Beauty,241,20.79,5010.39,Hokkaido,Website
+2024-08-08,P006,Toys,179,53.47,9571.13,Hokkaido,Website
+2024-08-10,P013,Electronics,76,599.84,45587.84,Fukuoka,Mercari
+2024-08-10,P016,Beauty,267,37.93,10127.31,Kyoto,Mercari
+2024-08-10,P018,Toys,73,25.29,1846.17,Fukuoka,Retail
+2024-08-11,P008,Fashion,118,62.65,7392.7,Fukuoka,Retail
+2024-08-12,P013,Electronics,32,579.79,18553.28,Hokkaido,Retail
+2024-08-13,P002,Home Appliances,49,292.57,14335.93,Nagoya,Website
+2024-08-13,P012,Toys,103,52.82,5440.46,Hokkaido,Website
+2024-08-15,P018,Toys,173,29.54,5110.42,Tokyo,Amazon
+2024-08-15,P003,Fashion,90,78.2,7038.0,Fukuoka,Mercari
+2024-08-16,P015,Home Appliances,43,201.01,8643.43,Nagoya,Website
+2024-08-17,P002,Home Appliances,44,357.85,15745.4,Nagoya,Retail
+2024-08-19,P005,Beauty,201,35.88,7211.88,Nagoya,Website
+2024-08-19,P019,Electronics,72,261.68,18840.96,Hokkaido,Website
+2024-08-20,P001,Electronics,70,399.22,27945.4,Hokkaido,Website
+2024-08-21,P002,Home Appliances,76,168.76,12825.76,Nagoya,Retail
+2024-08-21,P003,Fashion,182,61.5,11193.0,Nagoya,Retail
+2024-08-21,P010,Beauty,123,38.43,4726.89,Hokkaido,Retail
+2024-08-21,P010,Beauty,275,34.49,9484.75,Fukuoka,Website
+2024-08-22,P015,Home Appliances,72,387.21,27879.12,Fukuoka,Amazon
+2024-08-22,P012,Toys,130,49.83,6477.9,Hokkaido,Website
+2024-08-24,P012,Toys,76,59.14,4494.64,Nagoya,Amazon
+2024-08-25,P014,Fashion,68,87.63,5958.84,Osaka,Website
+2024-08-26,P012,Toys,75,42.81,3210.75,Osaka,Retail
+2024-08-27,P019,Electronics,31,216.48,6710.88,Tokyo,Amazon
+2024-08-27,P020,Fashion,80,77.63,6210.4,Osaka,Amazon
+2024-08-28,P003,Fashion,191,47.54,9080.14,Nagoya,Retail
+2024-08-29,P010,Beauty,282,45.54,12842.28,Kyoto,Retail
+2024-08-29,P018,Toys,83,47.39,3933.37,Osaka,Mercari
+2024-08-29,P010,Beauty,123,34.92,4295.16,Fukuoka,Mercari
+2024-08-29,P009,Home Appliances,76,331.88,25222.88,Nagoya,Amazon
+2024-08-30,P018,Toys,159,29.12,4630.08,Nagoya,Mercari
+2024-08-31,P001,Electronics,68,257.11,17483.48,Kyoto,Mercari
+2024-08-31,P019,Electronics,43,305.86,13151.98,Hokkaido,Mercari
+2024-08-31,P008,Fashion,140,45.06,6308.4,Tokyo,Amazon
+2024-09-01,P018,Toys,80,59.23,4738.4,Fukuoka,Mercari
+2024-09-02,P005,Beauty,221,41.41,9151.61,Hokkaido,Mercari
+2024-09-02,P017,Sports,69,72.57,5007.33,Tokyo,Amazon
+2024-09-03,P013,Electronics,41,467.7,19175.7,Osaka,Mercari
+2024-09-04,P019,Electronics,54,470.65,25415.1,Fukuoka,Website
+2024-09-05,P020,Fashion,85,92.52,7864.2,Nagoya,Website
+2024-09-05,P008,Fashion,78,32.21,2512.38,Osaka,Amazon
+2024-09-05,P004,Sports,115,111.57,12830.55,Osaka,Retail
+2024-09-06,P013,Electronics,77,596.25,45911.25,Nagoya,Website
+2024-09-06,P020,Fashion,153,89.93,13759.29,Fukuoka,Website
+2024-09-07,P020,Fashion,178,65.64,11683.92,Tokyo,Amazon
+2024-09-08,P010,Beauty,280,43.14,12079.2,Osaka,Mercari
+2024-09-09,P012,Toys,67,49.25,3299.75,Kyoto,Amazon
+2024-09-11,P016,Beauty,284,30.46,8650.64,Nagoya,Website
+2024-09-11,P008,Fashion,148,30.48,4511.04,Osaka,Mercari
+2024-09-12,P015,Home Appliances,86,313.99,27003.14,Osaka,Retail
+2024-09-14,P017,Sports,100,127.5,12750.0,Kyoto,Amazon
+2024-09-14,P011,Sports,52,121.74,6330.48,Kyoto,Retail
+2024-09-15,P011,Sports,92,91.88,8452.96,Kyoto,Retail
+2024-09-15,P010,Beauty,275,24.79,6817.25,Hokkaido,Website
+2024-09-16,P001,Electronics,73,347.34,25355.82,Tokyo,Mercari
+2024-09-16,P007,Electronics,48,502.36,24113.28,Nagoya,Website
+2024-09-17,P017,Sports,130,103.23,13419.9,Hokkaido,Website
+2024-09-17,P013,Electronics,41,325.5,13345.5,Fukuoka,Website
+2024-09-18,P012,Toys,171,48.66,8320.86,Kyoto,Website
+2024-09-18,P002,Home Appliances,47,378.31,17780.57,Fukuoka,Retail
+2024-09-19,P010,Beauty,285,43.9,12511.5,Kyoto,Amazon
+2024-09-20,P016,Beauty,267,27.97,7467.99,Hokkaido,Retail
+2024-09-20,P016,Beauty,163,25.77,4200.51,Nagoya,Website
+2024-09-21,P002,Home Appliances,36,376.98,13571.28,Kyoto,Retail
+2024-09-23,P005,Beauty,243,35.56,8641.08,Nagoya,Mercari
+2024-09-23,P006,Toys,103,25.49,2625.47,Nagoya,Retail
+2024-09-23,P004,Sports,77,113.87,8767.99,Nagoya,Retail
+2024-09-24,P002,Home Appliances,46,295.88,13610.48,Hokkaido,Mercari
+2024-09-25,P005,Beauty,173,28.71,4966.83,Kyoto,Amazon
+2024-09-25,P009,Home Appliances,63,388.51,24476.13,Hokkaido,Amazon
+2024-09-26,P004,Sports,133,83.07,11048.31,Fukuoka,Website
+2024-09-27,P018,Toys,131,34.49,4518.19,Kyoto,Website
+2024-09-29,P005,Beauty,219,45.53,9971.07,Nagoya,Retail
+2024-09-30,P002,Home Appliances,75,399.29,29946.75,Fukuoka,Retail
+2024-09-30,P010,Beauty,102,46.3,4722.6,Nagoya,Amazon
+2024-09-30,P011,Sports,122,78.46,9572.12,Hokkaido,Mercari
+2024-10-01,P009,Home Appliances,78,288.33,22489.74,Nagoya,Retail
+2024-10-02,P014,Fashion,66,54.12,3571.92,Hokkaido,Amazon
+2024-10-02,P009,Home Appliances,30,244.29,7328.7,Tokyo,Retail
+2024-10-05,P009,Home Appliances,39,197.12,7687.68,Tokyo,Mercari
+2024-10-06,P011,Sports,96,135.45,13003.2,Tokyo,Retail
+2024-10-06,P018,Toys,76,38.76,2945.76,Kyoto,Retail
+2024-10-07,P011,Sports,41,80.32,3293.12,Osaka,Retail
+2024-10-10,P009,Home Appliances,47,165.24,7766.28,Kyoto,Mercari
+2024-10-10,P013,Electronics,64,273.55,17507.2,Fukuoka,Retail
+2024-10-10,P009,Home Appliances,88,239.91,21112.08,Fukuoka,Amazon
+2024-10-11,P014,Fashion,106,33.2,3519.2,Kyoto,Retail
+2024-10-12,P013,Electronics,54,379.41,20488.14,Fukuoka,Amazon
+2024-10-13,P009,Home Appliances,52,354.11,18413.72,Hokkaido,Amazon
+2024-10-13,P015,Home Appliances,52,208.58,10846.16,Tokyo,Retail
+2024-10-13,P008,Fashion,134,47.85,6411.9,Kyoto,Amazon
+2024-10-14,P018,Toys,156,56.95,8884.2,Hokkaido,Retail
+2024-10-14,P006,Toys,158,51.91,8201.78,Kyoto,Mercari
+2024-10-15,P005,Beauty,216,35.4,7646.4,Hokkaido,Amazon
+2024-10-15,P020,Fashion,62,77.04,4776.48,Osaka,Amazon
+2024-10-17,P012,Toys,132,27.73,3660.36,Tokyo,Amazon
+2024-10-17,P010,Beauty,287,27.02,7754.74,Hokkaido,Website
+2024-10-18,P015,Home Appliances,64,318.19,20364.16,Kyoto,Amazon
+2024-10-18,P013,Electronics,45,529.34,23820.3,Fukuoka,Website
+2024-10-18,P016,Beauty,188,21.41,4025.08,Kyoto,Mercari
+2024-10-18,P014,Fashion,192,97.75,18768.0,Hokkaido,Retail
+2024-10-19,P020,Fashion,132,84.08,11098.56,Osaka,Website
+2024-10-20,P001,Electronics,34,296.27,10073.18,Tokyo,Amazon
+2024-10-22,P018,Toys,170,29.65,5040.5,Nagoya,Amazon
+2024-10-23,P019,Electronics,62,395.53,24522.86,Fukuoka,Amazon
+2024-10-23,P020,Fashion,151,79.26,11968.26,Osaka,Website
+2024-10-25,P008,Fashion,70,77.62,5433.4,Hokkaido,Mercari
+2024-10-25,P010,Beauty,236,31.42,7415.12,Kyoto,Website
+2024-10-26,P017,Sports,93,81.87,7613.91,Fukuoka,Retail
+2024-10-26,P019,Electronics,65,489.72,31831.8,Osaka,Mercari
+2024-10-26,P016,Beauty,181,42.85,7755.85,Osaka,Website
+2024-10-27,P018,Toys,85,56.6,4811.0,Hokkaido,Retail
+2024-10-27,P001,Electronics,49,502.47,24621.03,Fukuoka,Mercari
+2024-10-28,P008,Fashion,86,51.05,4390.3,Fukuoka,Amazon
+2024-10-29,P005,Beauty,233,49.57,11549.81,Osaka,Mercari
+2024-10-30,P003,Fashion,170,99.03,16835.1,Tokyo,Website
+2024-10-30,P015,Home Appliances,36,361.78,13024.08,Hokkaido,Retail
+2024-10-31,P005,Beauty,216,34.35,7419.6,Kyoto,Website
+2024-10-31,P004,Sports,136,124.69,16957.84,Fukuoka,Retail
+2024-11-01,P001,Electronics,56,412.88,23121.28,Tokyo,Amazon
+2024-11-02,P020,Fashion,173,74.64,12912.72,Kyoto,Mercari
+2024-11-03,P013,Electronics,65,351.71,22861.15,Fukuoka,Amazon
+2024-11-03,P020,Fashion,113,50.68,5726.84,Kyoto,Amazon
+2024-11-03,P009,Home Appliances,44,188.56,8296.64,Kyoto,Mercari
+2024-11-03,P012,Toys,136,44.4,6038.4,Hokkaido,Website
+2024-11-05,P010,Beauty,201,20.2,4060.2,Nagoya,Mercari
+2024-11-06,P011,Sports,66,51.57,3403.62,Hokkaido,Retail
+2024-11-08,P007,Electronics,46,447.91,20603.86,Nagoya,Website
+2024-11-08,P007,Electronics,74,560.51,41477.74,Hokkaido,Mercari
+2024-11-09,P016,Beauty,264,49.0,12936.0,Kyoto,Mercari
+2024-11-09,P002,Home Appliances,60,381.04,22862.4,Hokkaido,Amazon
+2024-11-10,P016,Beauty,192,43.48,8348.16,Nagoya,Retail
+2024-11-10,P011,Sports,128,110.32,14120.96,Osaka,Mercari
+2024-11-11,P008,Fashion,112,56.59,6338.08,Fukuoka,Website
+2024-11-11,P020,Fashion,151,83.83,12658.33,Nagoya,Amazon
+2024-11-11,P012,Toys,60,28.73,1723.8,Nagoya,Mercari
+2024-11-11,P006,Toys,100,58.76,5876.0,Nagoya,Mercari
+2024-11-12,P018,Toys,115,57.94,6663.1,Osaka,Mercari
+2024-11-12,P009,Home Appliances,36,175.56,6320.16,Osaka,Mercari
+2024-11-15,P006,Toys,105,50.65,5318.25,Osaka,Retail
+2024-11-15,P018,Toys,112,44.42,4975.04,Tokyo,Amazon
+2024-11-16,P005,Beauty,211,21.9,4620.9,Nagoya,Mercari
+2024-11-17,P002,Home Appliances,34,359.77,12232.18,Kyoto,Amazon
+2024-11-17,P009,Home Appliances,61,283.93,17319.73,Tokyo,Mercari
+2024-11-17,P012,Toys,115,26.88,3091.2,Osaka,Amazon
+2024-11-19,P013,Electronics,64,470.81,30131.84,Nagoya,Mercari
+2024-11-21,P001,Electronics,35,481.14,16839.9,Fukuoka,Mercari
+2024-11-21,P011,Sports,149,106.59,15881.91,Tokyo,Amazon
+2024-11-21,P009,Home Appliances,82,345.89,28362.98,Fukuoka,Retail
+2024-11-22,P013,Electronics,47,267.8,12586.6,Nagoya,Website
+2024-11-23,P005,Beauty,229,20.27,4641.83,Fukuoka,Website
+2024-11-23,P008,Fashion,70,51.0,3570.0,Kyoto,Amazon
+2024-11-24,P018,Toys,177,42.09,7449.93,Hokkaido,Amazon
+2024-11-24,P018,Toys,91,56.68,5157.88,Hokkaido,Retail
+2024-11-24,P016,Beauty,150,37.81,5671.5,Fukuoka,Amazon
+2024-11-25,P001,Electronics,70,364.96,25547.2,Osaka,Amazon
+2024-11-25,P013,Electronics,49,571.55,28005.95,Osaka,Retail
+2024-11-25,P005,Beauty,276,43.71,12063.96,Kyoto,Amazon
+2024-11-26,P006,Toys,72,28.75,2070.0,Hokkaido,Retail
+2024-11-26,P013,Electronics,55,231.61,12738.55,Fukuoka,Retail
+2024-11-26,P011,Sports,95,94.02,8931.9,Kyoto,Retail
+2024-11-28,P013,Electronics,56,204.94,11476.64,Fukuoka,Amazon
+2024-12-01,P004,Sports,105,75.87,7966.35,Kyoto,Retail
+2024-12-02,P009,Home Appliances,61,206.21,12578.81,Osaka,Mercari
+2024-12-03,P019,Electronics,78,212.34,16562.52,Osaka,Website
+2024-12-04,P019,Electronics,64,279.92,17914.88,Osaka,Amazon
+2024-12-04,P008,Fashion,140,76.03,10644.2,Osaka,Amazon
+2024-12-04,P005,Beauty,187,30.45,5694.15,Fukuoka,Retail
+2024-12-05,P010,Beauty,268,27.26,7305.68,Osaka,Mercari
+2024-12-05,P007,Electronics,65,526.09,34195.85,Hokkaido,Mercari
+2024-12-05,P014,Fashion,120,94.31,11317.2,Kyoto,Retail
+2024-12-06,P014,Fashion,100,57.69,5769.0,Fukuoka,Mercari
+2024-12-08,P010,Beauty,195,23.51,4584.45,Kyoto,Retail
+2024-12-09,P018,Toys,106,53.81,5703.86,Hokkaido,Amazon
+2024-12-10,P002,Home Appliances,69,262.43,18107.67,Tokyo,Mercari
+2024-12-10,P019,Electronics,62,306.94,19030.28,Kyoto,Amazon
+2024-12-11,P003,Fashion,79,51.02,4030.58,Tokyo,Website
+2024-12-11,P007,Electronics,46,383.02,17618.92,Kyoto,Mercari
+2024-12-12,P001,Electronics,48,393.11,18869.28,Fukuoka,Amazon
+2024-12-12,P012,Toys,139,54.59,7588.01,Osaka,Website
+2024-12-13,P001,Electronics,43,481.89,20721.27,Nagoya,Amazon
+2024-12-13,P017,Sports,128,124.98,15997.44,Nagoya,Mercari
+2024-12-14,P006,Toys,128,42.03,5379.84,Kyoto,Retail
+2024-12-14,P016,Beauty,213,32.47,6916.11,Fukuoka,Retail
+2024-12-15,P012,Toys,158,38.69,6113.02,Kyoto,Retail
+2024-12-17,P016,Beauty,124,30.45,3775.8,Fukuoka,Mercari
+2024-12-17,P006,Toys,102,44.32,4520.64,Hokkaido,Mercari
+2024-12-17,P011,Sports,118,109.7,12944.6,Fukuoka,Amazon
+2024-12-17,P013,Electronics,38,367.3,13957.4,Hokkaido,Mercari
+2024-12-18,P017,Sports,128,142.35,18220.8,Fukuoka,Amazon
+2024-12-18,P006,Toys,77,42.14,3244.78,Osaka,Website
+2024-12-18,P009,Home Appliances,46,299.21,13763.66,Nagoya,Website
+2024-12-19,P013,Electronics,51,586.72,29922.72,Fukuoka,Amazon
+2024-12-19,P004,Sports,108,129.95,14034.6,Osaka,Website
+2024-12-19,P016,Beauty,128,36.49,4670.72,Hokkaido,Amazon
+2024-12-21,P004,Sports,61,117.71,7180.31,Kyoto,Retail
+2024-12-21,P014,Fashion,69,56.26,3881.94,Kyoto,Amazon
+2024-12-23,P005,Beauty,282,27.49,7752.18,Nagoya,Retail
+2024-12-25,P015,Home Appliances,79,286.59,22640.61,Tokyo,Retail
+2024-12-25,P013,Electronics,66,395.78,26121.48,Kyoto,Website
+2024-12-26,P008,Fashion,121,52.81,6390.01,Fukuoka,Website
+2024-12-26,P013,Electronics,68,229.59,15612.12,Fukuoka,Mercari
+2024-12-26,P012,Toys,163,49.56,8078.28,Hokkaido,Amazon
+2024-12-26,P007,Electronics,33,525.41,17338.53,Hokkaido,Website
+2024-12-27,P003,Fashion,154,87.33,13448.82,Kyoto,Mercari
+2024-12-27,P015,Home Appliances,70,304.85,21339.5,Tokyo,Mercari
+2024-12-28,P004,Sports,70,127.56,8929.2,Osaka,Website
+2024-12-28,P020,Fashion,92,74.29,6834.68,Hokkaido,Retail
+2024-12-30,P020,Fashion,84,71.31,5990.04,Nagoya,Amazon
+2024-12-31,P015,Home Appliances,51,385.74,19672.74,Fukuoka,Website
+2024-12-31,P015,Home Appliances,76,207.96,15804.96,Kyoto,Retail
