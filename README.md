@@ -24,6 +24,23 @@ A comprehensive project demonstrating how to model, serialize, and visualize sal
 
 ---
 
+### 02-CRM-Reporting: CRM Reporting Dashboard
+
+A sample dashboard project demonstrating automated CRM data extraction and linking BigQuery data to Looker Studio. This project showcases how to streamline CRM reporting workflows by connecting CRM systems to BigQuery and visualizing the data in Looker Studio.
+
+**Key Highlights:**
+- Automated CRM data extraction workflows
+- Data transformation and storage in BigQuery
+- Real-time dashboard visualization in Looker Studio
+- Sample POS (Point of Sale) data integration
+- Multi-page dashboard with comprehensive CRM metrics
+
+**Tech Stack:** CRM Systems, BigQuery, Looker Studio, Data Automation
+
+[View Project Details →](02-CRM-Reporting/README.md)
+
+---
+
 ## 🛠️ Technical Stack
 
 - **BigQuery** – Data storage, transformation, and SQL modeling
@@ -36,7 +53,7 @@ A comprehensive project demonstrating how to model, serialize, and visualize sal
 ## 📝 Project Structure
 
 Each project follows a consistent structure:
-- `queries/` – SQL queries for BigQuery transformations
-- `sales_data/` or `data/` – Sample data files and generation scripts
+- `queries/` – SQL queries for BigQuery transformations (when applicable)
+- `data/` or `sales_data/` – Sample data files and generation scripts
 - `images/` – Dashboard and visualization previews
 - `README.md` – Project-specific documentation
