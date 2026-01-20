@@ -41,6 +41,24 @@ A sample dashboard project demonstrating automated CRM data extraction and linki
 
 ---
 
+### 03-energy-consumption-analysis: Energy Consumption Analysis Dashboard
+
+A comprehensive project demonstrating how to analyze and visualize building energy consumption patterns. This project showcases energy usage trends, environmental factor correlations, and occupancy pattern impacts to help optimize energy efficiency and reduce costs.
+
+**Key Highlights:**
+- Hourly energy consumption tracking with time series analysis
+- Environmental factor correlation (temperature, humidity)
+- Occupancy pattern analysis and its impact on energy usage
+- HVAC and lighting usage optimization insights
+- Renewable energy contribution tracking
+- Multi-page dashboard with comprehensive energy metrics
+
+**Tech Stack:** BigQuery, Looker Studio, Python, SQL
+
+[View Project Details →](03-energy-consumption-analysis/README.md)
+
+---
+
 ## 🛠️ Technical Stack
 
 - **BigQuery** – Data storage, transformation, and SQL modeling
